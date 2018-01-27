@@ -14,7 +14,7 @@ real :: start_time,final_time
 
 call CPU_TIME(start_time)
 call read_verify_input()
-call allocate_variables()
+call allocate_variables()abcededs
 call read_verify_velocity_model()
 call read_verify_density_model()
 call calculate_source_modelling_parameters()
